@@ -8,3 +8,4 @@ I covered
 5. Datasets library
 6. Tokenizers library
 7. Main NLP Tasks
+8. Building and sharing demos
